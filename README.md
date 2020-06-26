@@ -1,7 +1,7 @@
 # Cake Factory Online Shopping 
 
 An imaginary bakery in London decides to build an app for better experience with the customers.Application is built on top of Spring Boot. <br> 
-This is an initial version for the application. 
+This is just an initial version for the application. No actual business logic has been implemented at this stage.
 
 Steps to execute the application
 * `./gradlew test`  Run the unit and integration tests
